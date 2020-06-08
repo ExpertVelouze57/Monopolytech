@@ -7,19 +7,24 @@
 <br/>
 [![Generic badge](https://img.shields.io/badge/Helped_by-OpenClassrooms_for_SDL-red.svg)](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/17117-installation-de-la-sdl)
 [![Generic badge](https://img.shields.io/badge/Helped_by-OpenClassrooms_for_use_GITHUB-red.svg)](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github)
-## Pour commencer
+<br/>
+[![Generic badge](https://img.shields.io/badge/Run_on-Ubuntu_18.04.4-blank.svg)](https://ubuntu-fr.org/)
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+## Pré-requis
+- Utilisez un ordinateur sur Ubuntu
+- Avoir installer la SDL 1.2
+- Récuperer le dossier du jeu : <b/>git clone</b> https://github.com/ExpertVelouze57/Monopolytech.git
 
-### Pré-requis
+## Instalation
+Après avoir installer le dossier jeu:
+* Compiler à nouveau le programme avec la commande **make**
+* Lancer l'executable avec la commande **./Monopolytech**
 
-Ce qu'il est requis pour commencer avec votre projet...
 
-- Programme 1
-- Programme 2
-- etc...
-
-### Installation
+### Démarage
+Pour commencer la première fois:
+<span>Lancer une nouvelle partie
+* Entrez le nom des 4 joueurs
 
 Les étapes pour installer votre programme....
 

@@ -1,0 +1,339 @@
+1/JOUEURS
+	1:Joueur_2
+	2:Joueur_1
+	3:Joueur_4
+	4:Joueur_3
+2/NOM DES CASES
+	1:main()
+	2:Php
+	3:Warning
+	4:Html
+	5:Frais_de_douane
+	6:Windows
+	7:Resistances
+	8:Warning
+	9:Condensateur
+	10:Bobine
+	11:Debogage_en_cours
+	12:Fortran
+	13:Cle_USB_32GB
+	14:Ocaml
+	15:Python
+	16:MacOS
+	17:Potentiometre
+	18:Warning
+	19:LED/Diode
+	20:Transformateur
+	21:Open_source
+	22:VHDL
+	23:Warning
+	24:Arm
+	25:Javascript
+	26:Linux
+	27:Bascule
+	28:Transistor
+	29:Carte_SD_64GB
+	30:Memoire
+	31:Segmentation_fault
+	32:Pascal
+	33:GO
+	34:Warning
+	35:C
+	36:Android
+	37:Warning
+	38:Microcontroleur
+	39:Depot_de_Brevet
+	40:STM32
+3/TERRAINS
+	1:	couleur :10
+	2:	couleur :0
+	2:	prix :60
+	2:	prix_batiment :50
+	2:	hypotheque :30
+	2:	nu :2
+	2:	m1 :10
+	2:	m2 :30
+	2:	m3 :90
+	2:	m4 :160
+	2:	H :250
+	3:	couleur :10
+	4:	couleur :0
+	4:	prix :60
+	4:	prix_batiment :50
+	4:	hypotheque :30
+	4:	nu :4
+	4:	m1 :20
+	4:	m2 :60
+	4:	m3 :180
+	4:	m4 :320
+	4:	H :450
+	5:	couleur :10
+	6:	couleur :8
+	6:	prix :200
+	6:	prix_batiment :0
+	6:	hypotheque :100
+	6:	nu :0
+	6:	m1 :25
+	6:	m2 :100
+	6:	m3 :150
+	6:	m4 :200
+	6:	H :0
+	7:	couleur :1
+	7:	prix :100
+	7:	prix_batiment :50
+	7:	hypotheque :50
+	7:	nu :6
+	7:	m1 :30
+	7:	m2 :90
+	7:	m3 :270
+	7:	m4 :400
+	7:	H :550
+	8:	couleur :10
+	9:	couleur :1
+	9:	prix :100
+	9:	prix_batiment :50
+	9:	hypotheque :50
+	9:	nu :6
+	9:	m1 :30
+	9:	m2 :90
+	9:	m3 :270
+	9:	m4 :400
+	9:	H :550
+	10:	couleur :1
+	10:	prix :120
+	10:	prix_batiment :50
+	10:	hypotheque :60
+	10:	nu :8
+	10:	m1 :40
+	10:	m2 :100
+	10:	m3 :300
+	10:	m4 :450
+	10:	H :600
+	11:	couleur :10
+	12:	couleur :2
+	12:	prix :140
+	12:	prix_batiment :100
+	12:	hypotheque :70
+	12:	nu :10
+	12:	m1 :50
+	12:	m2 :150
+	12:	m3 :450
+	12:	m4 :625
+	12:	H :750
+	13:	couleur :9
+	13:	prix :150
+	13:	prix_batiment :0
+	13:	hypotheque :75
+	13:	nu :0
+	13:	m1 :4
+	13:	m2 :10
+	13:	m3 :0
+	13:	m4 :0
+	13:	H :0
+	14:	couleur :2
+	14:	prix :140
+	14:	prix_batiment :100
+	14:	hypotheque :70
+	14:	nu :10
+	14:	m1 :50
+	14:	m2 :150
+	14:	m3 :450
+	14:	m4 :625
+	14:	H :750
+	15:	couleur :2
+	15:	prix :160
+	15:	prix_batiment :100
+	15:	hypotheque :80
+	15:	nu :12
+	15:	m1 :60
+	15:	m2 :180
+	15:	m3 :500
+	15:	m4 :700
+	15:	H :900
+	16:	couleur :8
+	16:	prix :200
+	16:	prix_batiment :0
+	16:	hypotheque :100
+	16:	nu :0
+	16:	m1 :25
+	16:	m2 :100
+	16:	m3 :150
+	16:	m4 :200
+	16:	H :0
+	17:	couleur :3
+	17:	prix :180
+	17:	prix_batiment :100
+	17:	hypotheque :90
+	17:	nu :14
+	17:	m1 :70
+	17:	m2 :200
+	17:	m3 :550
+	17:	m4 :700
+	17:	H :900
+	18:	couleur :10
+	19:	couleur :3
+	19:	prix :180
+	19:	prix_batiment :100
+	19:	hypotheque :90
+	19:	nu :14
+	19:	m1 :70
+	19:	m2 :200
+	19:	m3 :550
+	19:	m4 :700
+	19:	H :950
+	20:	couleur :3
+	20:	prix :200
+	20:	prix_batiment :100
+	20:	hypotheque :100
+	20:	nu :16
+	20:	m1 :80
+	20:	m2 :220
+	20:	m3 :600
+	20:	m4 :800
+	20:	H :1000
+	21:	couleur :10
+	22:	couleur :4
+	22:	prix :220
+	22:	prix_batiment :150
+	22:	hypotheque :110
+	22:	nu :18
+	22:	m1 :90
+	22:	m2 :250
+	22:	m3 :700
+	22:	m4 :875
+	22:	H :1050
+	23:	couleur :10
+	24:	couleur :4
+	24:	prix :220
+	24:	prix_batiment :150
+	24:	hypotheque :110
+	24:	nu :18
+	24:	m1 :90
+	24:	m2 :250
+	24:	m3 :700
+	24:	m4 :875
+	24:	H :1050
+	25:	couleur :4
+	25:	prix :240
+	25:	prix_batiment :150
+	25:	hypotheque :120
+	25:	nu :20
+	25:	m1 :100
+	25:	m2 :300
+	25:	m3 :750
+	25:	m4 :925
+	25:	H :1100
+	26:	couleur :8
+	26:	prix :200
+	26:	prix_batiment :0
+	26:	hypotheque :100
+	26:	nu :0
+	26:	m1 :25
+	26:	m2 :100
+	26:	m3 :150
+	26:	m4 :200
+	26:	H :0
+	27:	couleur :5
+	27:	prix :260
+	27:	prix_batiment :150
+	27:	hypotheque :130
+	27:	nu :22
+	27:	m1 :110
+	27:	m2 :330
+	27:	m3 :800
+	27:	m4 :975
+	27:	H :1150
+	28:	couleur :5
+	28:	prix :260
+	28:	prix_batiment :150
+	28:	hypotheque :130
+	28:	nu :22
+	28:	m1 :110
+	28:	m2 :330
+	28:	m3 :800
+	28:	m4 :975
+	28:	H :1150
+	29:	couleur :9
+	29:	prix :150
+	29:	prix_batiment :0
+	29:	hypotheque :75
+	29:	nu :0
+	29:	m1 :4
+	29:	m2 :10
+	29:	m3 :0
+	29:	m4 :0
+	29:	H :0
+	30:	couleur :5
+	30:	prix :280
+	30:	prix_batiment :150
+	30:	hypotheque :150
+	30:	nu :24
+	30:	m1 :120
+	30:	m2 :360
+	30:	m3 :850
+	30:	m4 :1025
+	30:	H :1200
+	31:	couleur :10
+	32:	couleur :6
+	32:	prix :300
+	32:	prix_batiment :200
+	32:	hypotheque :150
+	32:	nu :26
+	32:	m1 :130
+	32:	m2 :390
+	32:	m3 :900
+	32:	m4 :1100
+	32:	H :1275
+	33:	couleur :6
+	33:	prix :300
+	33:	prix_batiment :200
+	33:	hypotheque :150
+	33:	nu :26
+	33:	m1 :130
+	33:	m2 :390
+	33:	m3 :900
+	33:	m4 :1100
+	33:	H :1275
+	34:	couleur :10
+	35:	couleur :6
+	35:	prix :320
+	35:	prix_batiment :200
+	35:	hypotheque :160
+	35:	nu :28
+	35:	m1 :150
+	35:	m2 :450
+	35:	m3 :1000
+	35:	m4 :1200
+	35:	H :1400
+	36:	couleur :8
+	36:	prix :200
+	36:	prix_batiment :0
+	36:	hypotheque :100
+	36:	nu :0
+	36:	m1 :25
+	36:	m2 :100
+	36:	m3 :150
+	36:	m4 :200
+	36:	H :0
+	37:	couleur :10
+	38:	couleur :7
+	38:	prix :350
+	38:	prix_batiment :200
+	38:	hypotheque :175
+	38:	nu :35
+	38:	m1 :175
+	38:	m2 :500
+	38:	m3 :1100
+	38:	m4 :1300
+	38:	H :1500
+	39:	couleur :10
+	40:	couleur :7
+	40:	prix :400
+	40:	prix_batiment :200
+	40:	hypotheque :200
+	40:	nu :50
+	40:	m1 :200
+	40:	m2 :600
+	40:	m3 :1400
+	40:	m4 :1700
+	40:	H :2000

@@ -25,53 +25,41 @@ Après avoir installer le dossier jeu:
 
 ### Démarage
 Pour commencer la première fois:
-* Lancer une nouvelle partie.
+* Lancer une **nouvelle partie**.
 * Entrez le nom des 4 joueurs.
-* Tirez les dés chacun votre tour pour determiner l'ordre de jeu.
+* Tirez les dés chacun votre tour pour déterminer l'ordre de jeu.
+* A vous de jouer.
 
-Les étapes pour installer votre programme....
-
-Dites ce qu'il faut faire...
-
-_exemple_: Executez la commande ``telnet mapscii.me`` pour commencer ensuite [...]
-
-
-Ensuite vous pouvez montrer ce que vous obtenez au final...
+Si vous avez déjà sauvageder votre partie:
+* faite simplement **charger partie**
 
 ## Démarrage
 
 Dites comment faire pour lancer votre projet
 
-## Fabriqué avec
+## Fabriqué pour
 
-Entrez les programmes/logiciels/ressources que vous avez utilisé pour développer votre projet
+Dans le cardre de nos études à **Polytech' Grenoble** nous avons du réaliser un projet logiciel. Pour cela nous avons décider de récrer le jeu Monopoly&copy;.
 
-_exemples :_
-* [Materialize.css](http://materializecss.com) - Framework CSS (front-end)
-* [Atom](https://atom.io/) - Editeur de textes
+https://www.polytech-grenoble.fr/
 
-## Contributing
+## Astuce && Aide 
+![](https://i.imgur.com/kjUS7Up.png)
 
-Si vous souhaitez contribuer, lisez le fichier [CONTRIBUTING.md](https://example.org) pour savoir comment le faire.
+## Organisation des fichiers
+![](https://i.imgur.com/UvEP4Dr.png)
+
+
 
 ## Versions
-Listez les versions ici 
-_exemple :_
-**Dernière version stable :** 5.0
-**Dernière version :** 5.1
-Liste des versions : [Cliquer pour afficher](https://github.com/your/project-name/tags)
-_(pour le lien mettez simplement l'URL de votre projets suivi de ``/tags``)_
+**Dernière version :** 1.0
+
 
 ## Auteurs
-Listez le(s) auteur(s) du projet ici !
-* **Jhon doe** _alias_ [@outout14](https://github.com/outout14)
+* **Cyril Pouchol** _alias_ [@cyrilpou](https://github.com/outout14)
 
-Lisez la liste des [contributeurs](https://github.com/your/project/contributors) pour voir qui à aidé au projet !
+* **Johan Rovarey** _alias_ [@johan6969](https://github.com/outout14)
 
-_(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
+* **Mathis Vernay** _alias_ [@ExpertVelouze57](https://github.com/outout14)
 
-## License
-
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
-
-Jeu de Monopoly, réalisé en collaboration avec Isaac - Chasande Valentin, Rovarey Johan, Pouchol Cyril, Vernay Mathis
+* **Valentin Isaac--Chasande** _alias_ [@ValFlashIC](https://github.com/outout14)

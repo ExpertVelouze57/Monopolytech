@@ -20,7 +20,7 @@
 ## Installation
 Après avoir installer le dossier jeu:
 * Compiler à nouveau le programme avec la commande **make**
-* Lancer l'exécutable avec la commande **./Monopolytech**
+* Lancer l'exécutable avec la commande **./Monopoly**
 
 
 ### Démarrage

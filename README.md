@@ -1,14 +1,7 @@
 # Monopolytech
-Jeu de Monopoly, réalisé en collaboration avec Isaac - Chasande Valentin, Rovarey Johan, Pouchol Cyril, Vernay Mathis
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 
-
-
-
-# Titre du projet
-_(juste en dessous des badges sympatiques à placer)_
-
-https://forthebadge.com/images/badges/built-for-android.svg
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
 Une petite description du projet
@@ -71,3 +64,5 @@ _(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``
 ## License
 
 Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+
+Jeu de Monopoly, réalisé en collaboration avec Isaac - Chasande Valentin, Rovarey Johan, Pouchol Cyril, Vernay Mathis

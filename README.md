@@ -1,3 +1,5 @@
+![](https://i.imgur.com/tpSdT3S.png)
+
 # Monopolytech
 [![Generic badge](https://img.shields.io/badge/Type-Game-black.svg)]()
 [![Generic badge](https://img.shields.io/badge/Players-4-black.svg)]()
@@ -23,8 +25,9 @@ Après avoir installer le dossier jeu:
 
 ### Démarage
 Pour commencer la première fois:
-<span>Lancer une nouvelle partie
-* Entrez le nom des 4 joueurs
+* Lancer une nouvelle partie.
+* Entrez le nom des 4 joueurs.
+* Tirez les dés chacun votre tour pour determiner l'ordre de jeu.
 
 Les étapes pour installer votre programme....
 

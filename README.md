@@ -13,24 +13,24 @@
 [![Generic badge](https://img.shields.io/badge/Run_on-Ubuntu_18.04.4-blank.svg)](https://ubuntu-fr.org/)
 
 ## Pré-requis
-- Utilisez un ordinateur sur Ubuntu
-- Avoir installer la SDL 1.2
-- Récuperer le dossier du jeu : <b/>git clone</b> https://github.com/ExpertVelouze57/Monopolytech.git
+- Système d'exploitation requis : Ubuntu
+- Avoir installé la SDL 1.2
+- Récupérer le dossier du jeu : <b/>git clone</b> https://github.com/ExpertVelouze57/Monopolytech.git
 
-## Instalation
+## Installation
 Après avoir installer le dossier jeu:
 * Compiler à nouveau le programme avec la commande **make**
-* Lancer l'executable avec la commande **./Monopolytech**
+* Lancer l'exécutable avec la commande **./Monopolytech**
 
 
-### Démarage
+### Démarrage
 Pour commencer la première fois:
 * Lancer une **nouvelle partie**.
 * Entrez le nom des 4 joueurs.
 * Tirez les dés chacun votre tour pour déterminer l'ordre de jeu.
 * A vous de jouer.
 
-Si vous avez déjà sauvageder votre partie:
+Si vous avez déjà sauvegarder votre partie:
 * faite simplement **charger partie**
 
 ## Démarrage
@@ -39,11 +39,11 @@ Dites comment faire pour lancer votre projet
 
 ## Fabriqué pour
 
-Dans le cardre de nos études à **Polytech' Grenoble** nous avons du réaliser un projet logiciel. Pour cela nous avons décider de récrer le jeu Monopoly&copy;.
+Dans le cadre de nos études à **Polytech' Grenoble** nous avons dû réaliser un projet logiciel. Pour cela nous avons décidé de recréer le jeu Monopoly&copy;.
 
 https://www.polytech-grenoble.fr/
 
-## Astuce && Aide 
+## Astuces && Aide 
 ![](https://i.imgur.com/kjUS7Up.png)
 
 ## Organisation des fichiers

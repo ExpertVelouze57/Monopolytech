@@ -56,10 +56,10 @@ https://www.polytech-grenoble.fr/
 
 
 ## Auteurs
-* **Cyril Pouchol** _alias_ [@cyrilpou](https://github.com/outout14)
+* **Cyril Pouchol** _alias_ [@cyrilpou](https://github.com/cyrilpou)
 
-* **Johan Rovarey** _alias_ [@johan6969](https://github.com/outout14)
+* **Johan Rovarey** _alias_ [@johan6969](https://github.com/johan6969)
 
-* **Mathis Vernay** _alias_ [@ExpertVelouze57](https://github.com/outout14)
+* **Mathis Vernay** _alias_ [@ExpertVelouze57](https://github.com/ExpertVelouze57)
 
-* **Valentin Isaac--Chasande** _alias_ [@ValFlashIC](https://github.com/outout14)
+* **Valentin Isaac--Chasande** _alias_ [@ValFlashIC](https://github.com/ValFlashIC)

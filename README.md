@@ -1,8 +1,9 @@
 # Monopolytech
 [![Generic badge](https://img.shields.io/badge/Type-Game-red.svg)]()
 [![Generic badge](https://img.shields.io/badge/Players-4-red.svg)]()
-[![Maintenance](https://img.shields.io/badge/Type-Game-black.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Maintenance](https://img.shields.io/badge/Made_with-C-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+  [![Generic badge](https://img.shields.io/badge/Language-C-green.svg)](https://fr.wikipedia.org/wiki/C_(langage))
+  [![Generic badge](https://img.shields.io/badge/Made_With-SDL_1.2.15-red.svg)](https://www.libsdl.org/download-1.2.php)
+
 ## Pour commencer
 
 Entrez ici les instructions pour bien débuter avec votre projet...

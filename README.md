@@ -45,6 +45,8 @@ https://www.polytech-grenoble.fr/
 ## Astuces && Aide 
 ![](https://i.imgur.com/kjUS7Up.png)
 
+Lorsque la fenêtre se ferme sans que vous n'ayez toucher à rien, appuyer simplement sur Ctrl et la fenêtre se rouvrira
+
 ## Organisation des fichiers
 ![](https://i.imgur.com/UvEP4Dr.png)
 

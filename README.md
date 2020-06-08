@@ -5,8 +5,8 @@
 [![Generic badge](https://img.shields.io/badge/Language-C-green.svg)](https://fr.wikipedia.org/wiki/C_(langage))
 [![Generic badge](https://img.shields.io/badge/Made_With-SDL_1.2.15-green.svg)](https://www.libsdl.org/download-1.2.php)
 <br/>
-[![Generic badge](https://img.shields.io/badge/Helped_by-OpenClassrooms_for_SDL-red.svg)](https://www.libsdl.org/download-1.2.php)
-[![Generic badge](https://img.shields.io/badge/Helped_by-OpenClassrooms_for_GITHUB-red.svg)](https://www.libsdl.org/download-1.2.php)
+[![Generic badge](https://img.shields.io/badge/Helped_by-OpenClassrooms_for_SDL-red.svg)](https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/17117-installation-de-la-sdl)
+[![Generic badge](https://img.shields.io/badge/Helped_by-OpenClassrooms_for_use_GITHUB-red.svg)](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github)
 ## Pour commencer
 
 Entrez ici les instructions pour bien débuter avec votre projet...

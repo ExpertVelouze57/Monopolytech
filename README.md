@@ -1,9 +1,12 @@
 # Monopolytech
-[![Generic badge](https://img.shields.io/badge/Type-Game-red.svg)]()
-[![Generic badge](https://img.shields.io/badge/Players-4-red.svg)]()
-  [![Generic badge](https://img.shields.io/badge/Language-C-green.svg)](https://fr.wikipedia.org/wiki/C_(langage))
-  [![Generic badge](https://img.shields.io/badge/Made_With-SDL_1.2.15-red.svg)](https://www.libsdl.org/download-1.2.php)
-
+[![Generic badge](https://img.shields.io/badge/Type-Game-black.svg)]()
+[![Generic badge](https://img.shields.io/badge/Players-4-black.svg)]()
+<br/>
+[![Generic badge](https://img.shields.io/badge/Language-C-green.svg)](https://fr.wikipedia.org/wiki/C_(langage))
+[![Generic badge](https://img.shields.io/badge/Made_With-SDL_1.2.15-green.svg)](https://www.libsdl.org/download-1.2.php)
+<br/>
+[![Generic badge](https://img.shields.io/badge/Helped_by-OpenClassrooms_for_SDL-red.svg)](https://www.libsdl.org/download-1.2.php)
+[![Generic badge](https://img.shields.io/badge/Helped_by-OpenClassrooms_for_GITHUB-red.svg)](https://www.libsdl.org/download-1.2.php)
 ## Pour commencer
 
 Entrez ici les instructions pour bien débuter avec votre projet...

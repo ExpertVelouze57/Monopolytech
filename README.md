@@ -23,7 +23,10 @@ Après avoir installer le dossier jeu:
 * Lancer l'exécutable avec la commande **./Monopoly**
 
 
-### Démarrage
+
+
+## Démarrage
+
 Pour commencer la première fois:
 * Lancer une **nouvelle partie**.
 * Entrez le nom des 4 joueurs.
@@ -32,10 +35,6 @@ Pour commencer la première fois:
 
 Si vous avez déjà sauvegarder votre partie:
 * faite simplement **charger partie**
-
-## Démarrage
-
-Dites comment faire pour lancer votre projet
 
 ## Fabriqué pour
 

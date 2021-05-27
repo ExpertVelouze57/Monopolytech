@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+//ajout d'un commentaire pour tester le git
 #include "lib/interface_graphique.h"
 
 int main() {
